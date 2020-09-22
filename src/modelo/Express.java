@@ -24,13 +24,7 @@ public class Express extends Servicio{
         return costo;
         }
 
-    @Override
-    public String descripcion() {
-        // Nombres  del servicio express
-         String cadena= " Los servicios Express son los siguientes: \n 1. Corte de uñas. \n 2. Bañado de mascota. \n 3.Corte de pelo. \n 4. Limpieza de oidos.";
-                
-          return cadena;
-         }
+ 
 
   
     
